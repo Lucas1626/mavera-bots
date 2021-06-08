@@ -1,0 +1,22 @@
+{
+  "name": "moderasyon",
+  "version": "1.0.0",
+  "description": "@lucas",
+  "main": "lucas.js",
+  "scripts": {
+    "start": "node lucas.js"
+  },
+  "author": "Lucas",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3",
+    "express": "^4.17.1",
+    "chalk": "^4.1.1",
+    "jimp": "^0.16.1",
+    "fs": "^0.0.2",
+    "node-fetch": "^2.6.1",
+    "mongoose": "^5.12.12"
+  }
